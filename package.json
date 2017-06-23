@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsdont/gitbook-plugin-new-flowchart.git"
+    "url": "git+https://github.com/ispacekid/gitbook-plugin-new-flowchart.git"
   },
   "keywords": [
     "flowchart",
     "gitbook"
   ],
-  "author": "NSDont",
+  "author": "spacekid",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nsdont/gitbook-plugin-new-flowchart/issues"
+    "url": "https://github.com/ispacekid/gitbook-plugin-new-flowchart/issues"
   },
-  "homepage": "https://github.com/nsdont/gitbook-plugin-new-flowchart#readme"
+  "homepage": "https://github.com/ispacekid/gitbook-plugin-new-flowchart"
 }
